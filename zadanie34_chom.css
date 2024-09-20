@@ -1,0 +1,17 @@
+h3{
+width: 300pt; 
+height: 2,6cm; 
+color: #CC6633;
+border: 5px groove;
+border-color: #808080 #800080 #800000 #FFFF00;
+margin-left:600px;
+background: rgb(255,127,80);
+}
+h2{
+background: rgb(200,76,18);
+color: yellow;
+}
+h1{
+background: rgb(255,69,0);
+color: khaki;
+}
